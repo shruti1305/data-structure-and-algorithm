@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<conio.h>
 void main()
 {
  int a[15],n,m,c=0,i;
